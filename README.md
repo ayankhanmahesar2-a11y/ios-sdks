@@ -1,1 +1,1 @@
-depete iOS-SDKs
+delete iOS-SDKs 
